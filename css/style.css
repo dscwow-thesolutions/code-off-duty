@@ -682,3 +682,15 @@ footer .item form input[type="submit"] {
     }
     
 }
+@media (max-width: 540px) {
+  /* Header */
+   header h1 {
+    padding-top: 30px;
+        font-size: 30px !important;
+    } 
+
+    header p {
+          display: none;
+    }
+   
+}
